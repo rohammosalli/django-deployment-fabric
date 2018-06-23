@@ -1,4 +1,4 @@
-"""
+
 from __future__ import with_statement # needed for python 2.5
 from fabric.api import *
 
